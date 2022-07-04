@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Rubix_cube" size="10.000000 10.250000" />
+    <ImageTarget name="zombie" size="10.000000 16.117188" />
+    <ImageTarget name="7" size="10.000000 6.622517" />
+    <ImageTarget name="6" size="10.000000 10.892858" />
+    <ImageTarget name="1-grande" size="10.000000 10.000000" />
+    <ImageTarget name="5" size="1.000000 1.048780" />
+    <ImageTarget name="3" size="1.000000 0.998810" />
+    <ImageTarget name="2" size="1.000000 1.000000" />
+    <ImageTarget name="1" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
